@@ -84,4 +84,6 @@ windows 下 mysql 性能有限，需耐心等待，建议将数据库导入 [hom
 
 The AVBook is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+解压密码：
+原文需要关注公众号获得解压密码，我这里分享一下：gyym.avbook.bt.01
 gyym.avbook.bt.01
